@@ -1,0 +1,10 @@
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\bin\Debug\Project7.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\bin\Debug\Project7.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\bin\Debug\Project7.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.MainForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project7\obj\Debug\Project7.pdb

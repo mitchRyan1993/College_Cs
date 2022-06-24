@@ -1,0 +1,57 @@
+C:\Users\Kyle\Desktop\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\Kyle\Desktop\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\Kyle\Desktop\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.Planet3.resources
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.Planet5.resources
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.SpaceGame.resources
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\Kyle\Desktop\SpaceGame\obj\Debug\SpaceGame.Planet2.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.Planet1.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.Planet2.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.Planet3.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.Planet5.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.SpaceGame.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame5Planets\SpaceGame5Planets\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Planet1.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Planet2.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Planet3.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Planet5.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.SpaceGame.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\ITE\Desktop\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Planet1.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Planet2.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Planet3.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Planet5.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.SpaceGame.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.PlanetTwo.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\SpaceGame\obj\Debug\SpaceGame.Planet4.resources

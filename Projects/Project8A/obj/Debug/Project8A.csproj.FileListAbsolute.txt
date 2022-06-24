@@ -1,0 +1,10 @@
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\bin\Debug\Project8A.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\bin\Debug\Project8A.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\bin\Debug\Project8A.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.MainForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8A\obj\Debug\Project8A.pdb

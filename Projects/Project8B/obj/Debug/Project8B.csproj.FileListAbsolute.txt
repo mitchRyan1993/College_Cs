@@ -1,0 +1,24 @@
+C:\Users\ITE\Desktop\Project8B\Project8B\bin\Debug\Project8B.exe.config
+C:\Users\ITE\Desktop\Project8B\Project8B\bin\Debug\Project8B.exe
+C:\Users\ITE\Desktop\Project8B\Project8B\bin\Debug\Project8B.pdb
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.csproj.AssemblyReference.cache
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.addAddressForm.resources
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.displayAddressForm.resources
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.mainForm.resources
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.Properties.Resources.resources
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.csproj.GenerateResource.cache
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.csproj.CoreCompileInputs.cache
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.exe
+C:\Users\ITE\Desktop\Project8B\Project8B\obj\Debug\Project8B.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\bin\Debug\Project8B.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\bin\Debug\Project8B.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\bin\Debug\Project8B.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.addAddressForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.displayAddressForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.mainForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project8B\obj\Debug\Project8B.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\bin\Debug\Project4.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\bin\Debug\Project4.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\bin\Debug\Project4.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.diceGame.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project4\obj\Debug\Project4.pdb

@@ -1,0 +1,10 @@
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\bin\Debug\Project6.exe.config
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\bin\Debug\Project6.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\bin\Debug\Project6.pdb
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.csproj.AssemblyReference.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.MainForm.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.csproj.GenerateResource.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.csproj.CoreCompileInputs.cache
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.exe
+C:\Users\mitch\Desktop\College\Fall 2021\OOP (C#)\Projects\Project6\obj\Debug\Project6.pdb
